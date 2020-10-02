@@ -652,7 +652,6 @@ input[type="button"] {
   /* Features */
 
   .features h2 {
-    font-size: 2em;
     margin-bottom: 20px;
   }
 
@@ -834,6 +833,7 @@ input[type="button"] {
   /* Features */
 
   .features h2 {
+    font-size: 2em;
     width: 90%;
   }
 
