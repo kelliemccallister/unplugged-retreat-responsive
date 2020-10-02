@@ -534,6 +534,27 @@ input[type="button"] {
      These examples override the primary ('mobile first') styles.
      Modify as content requires.
      ========================================================================== */
+@media only screen and (min-width: 280px) {
+/*Galaxy Fold*/
+
+/* Hero Area */
+
+.hero-area {
+  min-height: 400px;
+}
+
+.hero-area h1 {
+  font-size: 2em;
+  line-height: 1;
+  margin: 0;
+}
+
+/* Features */
+.features h2 {
+  font-size: 1.3em;
+  margin-bottom: 30px;
+}
+
 
 @media only screen and (min-width: 768px) {
   /*Tablet styles here*/
